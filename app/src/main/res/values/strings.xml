@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Campus Connect</string>
+
+    <!-- Auth -->
+    <string name="login_title">Login to your account</string>
+    <string name="register_title">Join the campus marketplace</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="dont_have_account">Don\'t have an account? Register here</string>
+    <string name="already_have_account">Already have an account? Login here</string>
+
+    <!-- Main Navigation -->
+    <string name="feed">Feed</string>
+    <string name="my_items">My Items</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="edit_profile">Edit My Profile &amp; Contacts</string>
+    <string name="submit_verification">Submit Verification Request</string>
+    <string name="verified_student">VERIFIED STUDENT</string>
+    <string name="pending_verification">PENDING VERIFICATION</string>
+    <string name="rejected_verification">VERIFICATION REJECTED</string>
+    <string name="unknown_status">UNKNOWN STATUS</string>
+
+    <!-- Feed & Search -->
+    <string name="marketplace">Marketplace</string>
+    <string name="search_listings">Search listings...</string>
+    <string name="no_listings">No active listings found.</string>
+    <string name="all">All</string>
+
+    <!-- Listing Actions -->
+    <string name="create_listing">Create Listing</string>
+    <string name="details">Details</string>
+    <string name="description">Description</string>
+    <string name="location">Location</string>
+    <string name="pickup_location">Pickup Location (e.g., Library)</string>
+    <string name="price_etb">Price (ETB)</string>
+    <string name="negotiable">Negotiable</string>
+    <string name="price_negotiable">Price Negotiable?</string>
+    <string name="select_image">Select Image from Gallery</string>
+    <string name="image_selected">Image Selected ✅</string>
+    <string name="post_listing">Post Listing</string>
+    <string name="edit_listing">Edit Listing Details</string>
+    <string name="mark_as_sold">Mark as Sold</string>
+    <string name="delete_listing">Delete Listing</string>
+    <string name="contact_seller">Contact Seller</string>
+    <string name="call_seller">Call Seller</string>
+    <string name="message_telegram">Message on Telegram</string>
+    <string name="report_listing">Report this listing</string>
+    <string name="sold">SOLD</string>
+    <string name="save_changes">Save Changes</string>
+
+    <!-- Categories & Status -->
+    <string name="seller">Seller</string>
+    <string name="posted">Posted</string>
+    <string name="expires">Expires</string>
+</resources>
